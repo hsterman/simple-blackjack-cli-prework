@@ -7,6 +7,8 @@ def deal_card
 end
 
 def display_card_total
+  while card_total < 21
+  hit += card_total
 end
 
 def prompt_user
