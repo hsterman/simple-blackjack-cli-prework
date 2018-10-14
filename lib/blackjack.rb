@@ -38,6 +38,8 @@ end
 #####################################################
 
 def runner
-  # code runner here
+ welcome
+ initial_round
+ current_total = in
 end
     
